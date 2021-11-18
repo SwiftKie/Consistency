@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "particle": "consistency:block/cracked_bricks",
+    "all": "consistency:block/cracked_bricks"
+  }
+}

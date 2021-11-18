@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures":
+  {
+    "particle": "consistency:block/chiseled_bricks",
+    "top": "consistency:block/chiseled_bricks_top",
+    "bottom": "minecraft:block/bricks",
+    "side": "consistency:block/chiseled_bricks"
+  }
+}
