@@ -3,27 +3,26 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Consistency",
+  "description": "Consistency is a minecraft mod designed to fill the feature gap by introducing new blocks into the game.",
   "authors": [
-    "Me!"
+    "SwiftKie"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://twitter.com/SwiftKie",
+    "sources": "https://github.com/SwiftKie/Consistency"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/consistency/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.swiftkie.consistency.Main"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
   ],
 
   "depends": {
