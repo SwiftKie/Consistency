@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "consistency:polished_andesite_bricks"
+    }
+  },
+  "result": {
+    "item": "consistency:polished_andesite_brick_wall",
+    "count": 6
+  }
+}

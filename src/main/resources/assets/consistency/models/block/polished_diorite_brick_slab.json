@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "consistency:block/polished_diorite_bricks",
+    "top": "consistency:block/polished_diorite_bricks",
+    "side": "consistency:block/polished_diorite_bricks"
+  }
+}

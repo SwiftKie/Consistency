@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#consistency:walls",
+    "#consistency:stone_materials"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "consistency:polished_andesite_brick_wall",
+    "consistency:polished_diorite_brick_wall",
+    "consistency:polished_granite_brick_wall"
+  ]
+}

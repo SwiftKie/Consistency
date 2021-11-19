@@ -13,13 +13,8 @@ import net.minecraft.world.BlockView;
 public class BlockRegistry
 {
     // BlockCopy
-    public static Block registerBlockCopy(String id, Block base) {
-        return register(id, new Block(FabricBlockSettings.copy(base)));
-    }
-
-    public static Block registerBlockCopy(String id, Block base, MapColor color) {
-        return register(id, new Block(FabricBlockSettings.copyOf(base).mapColor(color)));
-    }
+    public static Block registerBricks(String id, Block base) { return register(id + "_bricks", new Block(FabricBlockSettings.copy(base))); }
+    public static Block registerBricks(Block base) { return registerBricks(Registry.BLOCK.getId(base).getPath(), base); }
 
     //Slab
     public static Block registerSlab(String id, Block base) { return register(id + "_slab", new SlabBlock(FabricBlockSettings.copy(base))); }
@@ -27,7 +22,7 @@ public class BlockRegistry
 
     // Stairs
     public static Block registerStairs(String id, Block base) { return register(id + "_stairs", new BlockStairs(base.getDefaultState(), FabricBlockSettings.copy(base))); }
-    //public static Block registerStairs(Block base) { return registerStairs(Registry.BLOCK.getId(base).getPath(), base); }
+    public static Block registerStairs(Block base) { return registerStairs(Registry.BLOCK.getId(base).getPath(), base); }
 
     // Wall
     public static Block registerWall(String id, Block base) { return register(id + "_wall", new WallBlock(FabricBlockSettings.copy(base))); }

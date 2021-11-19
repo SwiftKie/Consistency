@@ -2,5 +2,20 @@
   "itemGroup.consistency.stone": "Stone",
 
   "block.consistency.cracked_bricks": "Cracked Bricks",
-  "block.consistency.chiseled_bricks": "Chiseled Bricks"
+  "block.consistency.chiseled_bricks": "Chiseled Bricks",
+
+  "block.consistency.polished_granite_bricks": "Polished Granite Bricks",
+  "block.consistency.polished_granite_brick_stairs": "Polished Granite Brick Stairs",
+  "block.consistency.polished_granite_brick_slab": "Polished Granite Brick Slab",
+  "block.consistency.polished_granite_brick_wall": "Polished Granite Brick Wall",
+
+  "block.consistency.polished_diorite_bricks": "Polished Diorite Bricks",
+  "block.consistency.polished_diorite_brick_stairs": "Polished Diorite Brick Stairs",
+  "block.consistency.polished_diorite_brick_slab": "Polished Diorite Brick Slab",
+  "block.consistency.polished_diorite_brick_wall": "Polished Diorite Brick Wall",
+
+  "block.consistency.polished_andesite_bricks": "Polished Andesite Bricks",
+  "block.consistency.polished_andesite_brick_stairs": "Polished Andesite Brick Stairs",
+  "block.consistency.polished_andesite_brick_slab": "Polished Andesite Brick Slab",
+  "block.consistency.polished_andesite_brick_wall": "Polished Andesite Brick Wall"
 }

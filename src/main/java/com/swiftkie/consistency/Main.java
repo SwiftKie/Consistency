@@ -26,6 +26,23 @@ public class Main implements ModInitializer
                     {
                         stacks.add(new ItemStack(ItemSet.CRACKED_BRICKS));
                         stacks.add(new ItemStack(ItemSet.CHISELED_BRICKS));
+
+                        stacks.add(new ItemStack(ItemSet.POLISHED_GRANITE_BRICKS));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_GRANITE_BRICK_STAIRS));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_GRANITE_BRICK_SLAB));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_GRANITE_BRICK_WALL));
+
+                        stacks.add(new ItemStack(ItemSet.POLISHED_DIORITE_BRICKS));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_DIORITE_BRICK_STAIRS));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_DIORITE_BRICK_SLAB));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_DIORITE_BRICK_WALL));
+
+                        stacks.add(new ItemStack(ItemSet.POLISHED_ANDESITE_BRICKS));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_ANDESITE_BRICK_STAIRS));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_ANDESITE_BRICK_SLAB));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_ANDESITE_BRICK_WALL));
+
+
                     }
             ).build();
 }

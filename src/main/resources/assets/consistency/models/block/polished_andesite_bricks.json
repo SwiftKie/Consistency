@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "particle": "consistency:block/polished_andesite_bricks",
+    "all": "consistency:block/polished_andesite_bricks"
+  }
+}
