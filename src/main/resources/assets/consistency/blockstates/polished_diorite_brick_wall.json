@@ -30,7 +30,7 @@
     {
       "when": { "north": "tall" },
       "apply": {
-        "model": "consistency:blockpolished_diorite_brick_wall_side_tall",
+        "model": "consistency:block/polished_diorite_brick_wall_side_tall",
         "uvlock": true } },
     {
       "when": { "east": "tall" },

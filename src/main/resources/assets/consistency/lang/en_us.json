@@ -1,8 +1,11 @@
 {
   "itemGroup.consistency.stone": "Stone",
 
-  "block.consistency.cracked_bricks": "Cracked Bricks",
   "block.consistency.chiseled_bricks": "Chiseled Bricks",
+  "block.consistency.cracked_bricks": "Cracked Bricks",
+  "block.consistency.cracked_brick_stairs": "Cracked Brick Stairs",
+  "block.consistency.cracked_brick_slab": "Cracked Brick Slab",
+  "block.consistency.cracked_brick_wall": "Cracked Brick Wall",
 
   "block.consistency.polished_granite_bricks": "Polished Granite Bricks",
   "block.consistency.polished_granite_brick_stairs": "Polished Granite Brick Stairs",
@@ -17,5 +20,25 @@
   "block.consistency.polished_andesite_bricks": "Polished Andesite Bricks",
   "block.consistency.polished_andesite_brick_stairs": "Polished Andesite Brick Stairs",
   "block.consistency.polished_andesite_brick_slab": "Polished Andesite Brick Slab",
-  "block.consistency.polished_andesite_brick_wall": "Polished Andesite Brick Wall"
+  "block.consistency.polished_andesite_brick_wall": "Polished Andesite Brick Wall",
+
+  "block.consistency.polished_stone": "Polished Stone",
+  "block.consistency.polished_stone_stairs": "Polished Stone Stairs",
+  "block.consistency.polished_stone_slab": "Polished Stone Slab",
+  "block.consistency.polished_stone_wall": "Polished Stone Wall",
+
+  "block.consistency.polished_sandstone": "Polished Sandstone",
+  "block.consistency.polished_sandstone_stairs": "Polished Sandstone Stairs",
+  "block.consistency.polished_sandstone_slab": "Polished Sandstone Slab",1
+  "block.consistency.polished_sandstone_wall": "Polished Sandstone Wall",
+
+  "block.consistency.polished_sandstone_bricks": "Polished Sandstone Bricks",
+  "block.consistency.polished_sandstone_brick_stairs": "Polished Sandstone Brick Stairs",
+  "block.consistency.polished_sandstone_brick_slab": "Polished Sandstone Brick Slab",
+  "block.consistency.polished_sandstone_brick_wall": "Polished Sandstone Brick Wall",
+
+  "block.consistency.polished_granite_wall": "Polished Granite Wall",
+  "block.consistency.polished_diorite_wall": "Polished Diorite Wall",
+  "block.consistency.polished_andesite_wall": "Polished Andesite Wall",
+  "block.consistency.stone_wall": "Stone Wall"
 }

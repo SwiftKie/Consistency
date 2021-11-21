@@ -1,16 +1,33 @@
 {
   "replace": false,
   "values": [
-    "consistency:polished_andesite_bricks",
-    "consistency:polished_andesite_brick_stairs",
-    "consistency:polished_andesite_brick_slab",
+    "consistency:chiseled_bricks",
+    "consistency:cracked_bricks",
+    "consistency:cracked_brick_stairs",
+    "consistency:cracked_brick_slab",
+
+    "consistency:polished_granite_bricks",
+    "consistency:polished_granite_brick_stairs",
+    "consistency:polished_granite_brick_slab",
 
     "consistency:polished_diorite_bricks",
     "consistency:polished_diorite_brick_stairs",
     "consistency:polished_diorite_brick_slab",
 
-    "consistency:polished_granite_bricks",
-    "consistency:polished_granite_brick_stairs",
-    "consistency:polished_granite_brick_slab"
+    "consistency:polished_andesite_bricks",
+    "consistency:polished_andesite_brick_stairs",
+    "consistency:polished_andesite_brick_slab",
+
+    "consistency:polished_stone",
+    "consistency:polished_stone_stairs",
+    "consistency:polished_stone_slab",
+
+    "consistency:polished_sandstone",
+    "consistency:polished_sandstone_stairs",
+    "consistency:polished_sandstone_slab",
+
+    "consistency:polished_sandstone_bricks",
+    "consistency:polished_sandstone_brick_stairs",
+    "consistency:polished_sandstone_brick_slab"
   ]
 }

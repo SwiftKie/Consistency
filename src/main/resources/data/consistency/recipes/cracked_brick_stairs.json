@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "consistency:cracked_bricks"
+    }
+  },
+  "result": {
+    "item": "consistency:cracked_brick_stairs",
+    "count": 4
+  }
+}
