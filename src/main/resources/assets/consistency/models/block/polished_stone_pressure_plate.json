@@ -1,0 +1,6 @@
+{
+  "parent": "consistency:block/polished_pressure_plate_up",
+  "textures": {
+    "texture": "consistency:block/polished_stone_pressure_plate"
+  }
+}

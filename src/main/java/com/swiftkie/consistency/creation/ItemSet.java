@@ -32,6 +32,8 @@ public class ItemSet
     public static final Item POLISHED_STONE_STAIRS = register(BlockSet.POLISHED_STONE_STAIRS);
     public static final Item POLISHED_STONE_SLAB = register(BlockSet.POLISHED_STONE_SLAB);
     public static final Item POLISHED_STONE_WALL = register(BlockSet.POLISHED_STONE_WALL);
+    public static final Item POLISHED_STONE_PRESSURE_PLATE = register(BlockSet.POLISHED_STONE_PRESSURE_PLATE);
+    public static final Item POLISHED_STONE_BUTTON = register(BlockSet.POLISHED_STONE_BUTTON);
 
     public static final Item POLISHED_SANDSTONE = register(BlockSet.POLISHED_SANDSTONE);
     public static final Item POLISHED_SANDSTONE_STAIRS = register(BlockSet.POLISHED_SANDSTONE_STAIRS);
@@ -47,6 +49,10 @@ public class ItemSet
     public static final Item POLISHED_DIORITE_WALL = register(BlockSet.POLISHED_DIORITE_WALL);
     public static final Item POLISHED_ANDESITE_WALL = register(BlockSet.POLISHED_ANDESITE_WALL);
     public static final Item STONE_WALL = register(BlockSet.STONE_WALL);
+    public static final Item QUARTZ_WALL = register(BlockSet.QUARTZ_WALL);
+    public static final Item QUARTZ_BRICK_STAIRS = register(BlockSet.QUARTZ_BRICK_STAIRS);
+    public static final Item QUARTZ_BRICK_SLAB = register(BlockSet.QUARTZ_BRICK_SLAB);
+    public static final Item QUARTZ_BRICK_WALL = register(BlockSet.QUARTZ_BRICK_WALL);
 
     public static Item register(Block block)
     {

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "consistency:polished_stone"
+    }
+  },
+  "result": {
+    "item": "consistency:polished_stone_pressure_plate"
+  }
+}

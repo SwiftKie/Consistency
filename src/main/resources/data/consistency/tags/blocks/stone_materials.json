@@ -28,6 +28,9 @@
 
     "consistency:polished_sandstone_bricks",
     "consistency:polished_sandstone_brick_stairs",
-    "consistency:polished_sandstone_brick_slab"
+    "consistency:polished_sandstone_brick_slab",
+
+    "consistency:quartz_brick_stairs",
+    "consistency:quartz_brick_slab"
   ]
 }

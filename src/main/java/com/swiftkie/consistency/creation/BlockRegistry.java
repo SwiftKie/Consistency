@@ -1,7 +1,9 @@
 package com.swiftkie.consistency.creation;
 
 import com.swiftkie.consistency.Main;
+import com.swiftkie.consistency.blocks.BlockPressurePlate;
 import com.swiftkie.consistency.blocks.BlockStairs;
+import com.swiftkie.consistency.blocks.BlockStoneButton;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
 import net.minecraft.entity.EntityType;
@@ -29,6 +31,13 @@ public class BlockRegistry
     public static Block registerWall(Block base) {
         return registerWall(Registry.BLOCK.getId(base).getPath(), base);
     }
+
+    //Button
+    public static Block registerStoneButton(String id, Block base) { return register(id + "_button", new BlockStoneButton(FabricBlockSettings.copy(base).noCollision())); }
+    public static Block registerStoneButton(Block base) { return registerStoneButton(Registry.BLOCK.getId(base).getPath(), base); }
+
+    //Pressure Plate
+    public static Block registerPressurePlate(String id, PressurePlateBlock.ActivationRule type, Block base) { return register(id + "_pressure_plate", new BlockPressurePlate(type, FabricBlockSettings.copy(base).noCollision())); }
 
     public static Block register(String id, Block block) {
         return Registry.register(Registry.BLOCK, new Identifier(Main.MOD_ID, id), block);

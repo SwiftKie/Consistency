@@ -13,6 +13,8 @@
     "consistency:polished_granite_wall",
     "consistency:polished_diorite_wall",
     "consistency:polished_andesite_wall",
-    "consistency:stone_wall"
+    "consistency:stone_wall",
+    "consistency:quartz_wall",
+    "consistency:quartz_brick_wall"
   ]
 }

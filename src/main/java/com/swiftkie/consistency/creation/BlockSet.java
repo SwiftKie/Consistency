@@ -3,6 +3,7 @@ package com.swiftkie.consistency.creation;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
+import net.minecraft.block.PressurePlateBlock;
 
 public class BlockSet extends BlockRegistry
 {
@@ -31,6 +32,8 @@ public class BlockSet extends BlockRegistry
     public static final Block POLISHED_STONE_STAIRS = registerStairs(BlockSet.POLISHED_STONE);
     public static final Block POLISHED_STONE_SLAB = registerSlab(BlockSet.POLISHED_STONE);
     public static final Block POLISHED_STONE_WALL = registerWall(BlockSet.POLISHED_STONE);
+    public static final Block POLISHED_STONE_PRESSURE_PLATE = registerPressurePlate("polished_stone", PressurePlateBlock.ActivationRule.MOBS, BlockSet.POLISHED_STONE);
+    public static final Block POLISHED_STONE_BUTTON = registerStoneButton(BlockSet.POLISHED_STONE);
 
     public static final Block POLISHED_SANDSTONE = register("polished_sandstone", new Block(FabricBlockSettings.copy(Blocks.CUT_SANDSTONE)));
     public static final Block POLISHED_SANDSTONE_STAIRS = registerStairs(BlockSet.POLISHED_SANDSTONE);
@@ -46,5 +49,9 @@ public class BlockSet extends BlockRegistry
     public static final Block POLISHED_DIORITE_WALL = registerWall(Blocks.POLISHED_DIORITE);
     public static final Block POLISHED_ANDESITE_WALL = registerWall(Blocks.POLISHED_ANDESITE);
     public static final Block STONE_WALL = registerWall(Blocks.STONE);
+    public static final Block QUARTZ_WALL = registerWall("quartz", Blocks.QUARTZ_BLOCK);
+    public static final Block QUARTZ_BRICK_STAIRS = registerStairs("quartz_brick", Blocks.QUARTZ_BRICKS);
+    public static final Block QUARTZ_BRICK_SLAB = registerSlab("quartz_brick", Blocks.QUARTZ_BRICKS);
+    public static final Block QUARTZ_BRICK_WALL = registerWall("quartz_brick", Blocks.QUARTZ_BRICKS);
 
 }

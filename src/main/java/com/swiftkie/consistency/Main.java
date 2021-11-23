@@ -49,6 +49,8 @@ public class Main implements ModInitializer
                         stacks.add(new ItemStack(ItemSet.POLISHED_STONE_STAIRS));
                         stacks.add(new ItemStack(ItemSet.POLISHED_STONE_SLAB));
                         stacks.add(new ItemStack(ItemSet.POLISHED_STONE_WALL));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_STONE_PRESSURE_PLATE));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_STONE_BUTTON));
 
                         stacks.add(new ItemStack(ItemSet.POLISHED_SANDSTONE));
                         stacks.add(new ItemStack(ItemSet.POLISHED_SANDSTONE_STAIRS));
@@ -64,6 +66,11 @@ public class Main implements ModInitializer
                         stacks.add(new ItemStack(ItemSet.POLISHED_DIORITE_WALL));
                         stacks.add(new ItemStack(ItemSet.POLISHED_ANDESITE_WALL));
                         stacks.add(new ItemStack(ItemSet.STONE_WALL));
+
+                        stacks.add(new ItemStack(ItemSet.QUARTZ_WALL));
+                        stacks.add(new ItemStack(ItemSet.QUARTZ_BRICK_STAIRS));
+                        stacks.add(new ItemStack(ItemSet.QUARTZ_BRICK_SLAB));
+                        stacks.add(new ItemStack(ItemSet.QUARTZ_BRICK_WALL));
 
                     }
             ).build();
