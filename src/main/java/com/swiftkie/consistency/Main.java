@@ -72,6 +72,18 @@ public class Main implements ModInitializer
                         stacks.add(new ItemStack(ItemSet.QUARTZ_BRICK_SLAB));
                         stacks.add(new ItemStack(ItemSet.QUARTZ_BRICK_WALL));
 
+                        stacks.add(new ItemStack(ItemSet.POLISHED_DEEPSLATE_PRESSURE_PLATE));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_DEEPSLATE_BUTTON));
+
+                        stacks.add(new ItemStack(ItemSet.POLISHED_GRANITE_PRESSURE_PLATE));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_GRANITE_BUTTON));
+
+                        stacks.add(new ItemStack(ItemSet.POLISHED_DIORITE_PRESSURE_PLATE));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_DIORITE_BUTTON));
+
+                        stacks.add(new ItemStack(ItemSet.POLISHED_ANDESITE_PRESSURE_PLATE));
+                        stacks.add(new ItemStack(ItemSet.POLISHED_ANDESITE_BUTTON));
+
                     }
             ).build();
 }

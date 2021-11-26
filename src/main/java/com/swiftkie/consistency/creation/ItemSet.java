@@ -54,6 +54,17 @@ public class ItemSet
     public static final Item QUARTZ_BRICK_SLAB = register(BlockSet.QUARTZ_BRICK_SLAB);
     public static final Item QUARTZ_BRICK_WALL = register(BlockSet.QUARTZ_BRICK_WALL);
 
+    public static final Item POLISHED_DEEPSLATE_PRESSURE_PLATE = register(BlockSet.POLISHED_DEEPSLATE_PRESSURE_PLATE);
+    public static final Item POLISHED_DEEPSLATE_BUTTON = register(BlockSet.POLISHED_DEEPSLATE_BUTTON);
+
+    public static final Item POLISHED_GRANITE_PRESSURE_PLATE = register(BlockSet.POLISHED_GRANITE_PRESSURE_PLATE);
+    public static final Item POLISHED_GRANITE_BUTTON = register(BlockSet.POLISHED_GRANITE_BUTTON);
+
+    public static final Item POLISHED_DIORITE_PRESSURE_PLATE = register(BlockSet.POLISHED_DIORITE_PRESSURE_PLATE);
+    public static final Item POLISHED_DIORITE_BUTTON = register(BlockSet.POLISHED_DIORITE_BUTTON);
+
+    public static final Item POLISHED_ANDESITE_PRESSURE_PLATE = register(BlockSet.POLISHED_ANDESITE_PRESSURE_PLATE);
+    public static final Item POLISHED_ANDESITE_BUTTON = register(BlockSet.POLISHED_ANDESITE_BUTTON);
     public static Item register(Block block)
     {
         return Registry.register(Registry.ITEM, Registry.BLOCK.getId(block), new BlockItem(block, new Item.Settings().maxCount(64)));

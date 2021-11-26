@@ -46,5 +46,17 @@
   "block.consistency.quartz_wall": "Quartz Wall",
   "block.consistency.quartz_brick_stairs": "Quartz Brick Stairs",
   "block.consistency.quartz_brick_slab": "Quartz Brick Slab",
-  "block.consistency.quartz_brick_wall": "Quartz Brick Wall"
+  "block.consistency.quartz_brick_wall": "Quartz Brick Wall",
+
+  "block.consistency.polished_deepslate_pressure_plate": "Polished Deepslate Pressure Plate",
+  "block.consistency.polished_deepslate_button": "Polished Deepslate Button",
+
+  "block.consistency.polished_granite_pressure_plate": "Polished Granite Pressure Plate",
+  "block.consistency.polished_granite_button": "Polished Granite Button",
+
+  "block.consistency.polished_diorite_pressure_plate": "Polished Diorite Pressure Plate",
+  "block.consistency.polished_diorite_button": "Polished Diorite Button",
+
+  "block.consistency.polished_andesite_pressure_plate": "Polished Andesite Pressure Plate",
+  "block.consistency.polished_andesite_button": "Polished Andesite Button"
 }

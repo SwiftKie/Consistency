@@ -1,0 +1,6 @@
+{
+  "parent": "consistency:block/polished_button_z",
+  "textures": {
+    "texture": "consistency:block/polished_deepslate_button"
+  }
+}
