@@ -29,19 +29,55 @@
   "block.consistency.polished_stone_pressure_plate": "Polished Stone Pressure Plate",
   "block.consistency.polished_stone_button": "Polished Stone Button",
 
+  "block.consistency.cracked_stone_brick_stairs": "Cracked Stone Brick Stairs",
+  "block.consistency.cracked_stone_brick_slab": "Cracked Stone Brick Slab",
+  "block.consistency.cracked_stone_brick_wall": "Cracked Stone Brick Wall",
+
+  "block.consistency.sandstone_pressure_plate": "Sandstone Pressure Plate",
+  "block.consistency.sandstone_button": "Sandstone Button",
+
   "block.consistency.polished_sandstone": "Polished Sandstone",
   "block.consistency.polished_sandstone_stairs": "Polished Sandstone Stairs",
   "block.consistency.polished_sandstone_slab": "Polished Sandstone Slab",
   "block.consistency.polished_sandstone_wall": "Polished Sandstone Wall",
+  "block.consistency.polished_sandstone_pressure_plate": "Polished Sandstone Pressure Plate",
+  "block.consistency.polished_sandstone_button": "Polished Sandstone Button",
 
   "block.consistency.polished_sandstone_bricks": "Polished Sandstone Bricks",
   "block.consistency.polished_sandstone_brick_stairs": "Polished Sandstone Brick Stairs",
   "block.consistency.polished_sandstone_brick_slab": "Polished Sandstone Brick Slab",
   "block.consistency.polished_sandstone_brick_wall": "Polished Sandstone Brick Wall",
 
+  "block.consistency.deepslate_stairs": "Deepslate Stairs",
+  "block.consistency.deepslate_slab": "Deepslate Slab",
+  "block.consistency.deepslate_wall": "Deepslate Wall",
+  "block.consistency.deepslate_pressure_plate": "Deepslate Pressure Plate",
+  "block.consistency.deepslate_button": "Deepslate Button",
+
+  "block.consistency.polished_deepslate_pressure_plate": "Polished Deepslate Pressure Plate",
+  "block.consistency.polished_deepslate_button": "Polished Deepslate Button",
+
+  "block.consistency.blackstone_pressure_plate": "Blackstone Pressure Plate",
+  "block.consistency.blackstone_button": "Blackstone Button",
+
   "block.consistency.polished_granite_wall": "Polished Granite Wall",
+  "block.consistency.polished_granite_pressure_plate": "Polished Granite Pressure Plate",
+  "block.consistency.polished_granite_button": "Polished Granite Button",
+  "block.consistency.granite_pressure_plate": "Granite Pressure Plate",
+  "block.consistency.granite_button": "Granite Button",
+
   "block.consistency.polished_diorite_wall": "Polished Diorite Wall",
+  "block.consistency.polished_diorite_pressure_plate": "Polished Diorite Pressure Plate",
+  "block.consistency.polished_diorite_button": "Polished Diorite Button",
+  "block.consistency.diorite_pressure_plate": "Diorite Pressure Plate",
+  "block.consistency.diorite_button": "Diorite Button",
+
   "block.consistency.polished_andesite_wall": "Polished Andesite Wall",
+  "block.consistency.polished_andesite_pressure_plate": "Polished Andesite Pressure Plate",
+  "block.consistency.polished_andesite_button": "Polished Andesite Button",
+  "block.consistency.andesite_pressure_plate": "Andesite Pressure Plate",
+  "block.consistency.andesite_button": "Andesite Button",
+
   "block.consistency.stone_wall": "Stone Wall",
   "block.consistency.quartz_wall": "Quartz Wall",
   "block.consistency.quartz_brick_stairs": "Quartz Brick Stairs",

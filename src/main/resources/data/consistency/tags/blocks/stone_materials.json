@@ -21,16 +21,48 @@
     "consistency:polished_stone",
     "consistency:polished_stone_stairs",
     "consistency:polished_stone_slab",
+    "consistency:polished_stone_pressure_plate",
+    "consistency:polished_stone_button",
+
+    "consistency:cracked_stone_brick_stairs",
+    "consistency:cracked_stone_brick_slab",
+
+    "consistency:sandstone_pressure_plate",
+    "consistency:sandstone_button",
 
     "consistency:polished_sandstone",
     "consistency:polished_sandstone_stairs",
     "consistency:polished_sandstone_slab",
+    "consistency:polished_sandstone_pressure_plate",
+    "consistency:polished_sandstone_button",
 
     "consistency:polished_sandstone_bricks",
     "consistency:polished_sandstone_brick_stairs",
     "consistency:polished_sandstone_brick_slab",
 
+    "consistency:deepslate_stairs",
+    "consistency:deepslate_slab",
+    "consistency:deepslate_pressure_plate",
+    "consistency:deepslate_button",
+
     "consistency:quartz_brick_stairs",
-    "consistency:quartz_brick_slab"
+    "consistency:quartz_brick_slab",
+
+    "consistency:polished_deepslate_pressure_plate",
+    "consistency:polished_deepslate_button",
+    "consistency:blackstone_pressure_plate",
+    "consistency:blackstone_button",
+    "consistency:polished_granite_pressure_plate",
+    "consistency:polished_granite_button",
+    "consistency:granite_pressure_plate",
+    "consistency:granite_button",
+    "consistency:polished_diorite_pressure_plate",
+    "consistency:polished_diorite_button",
+    "consistency:diorite_pressure_plate",
+    "consistency:diorite_button",
+    "consistency:polished_andesite_pressure_plate",
+    "consistency:polished_andesite_button",
+    "consistency:andesite_pressure_plate",
+    "consistency:andesite_button"
   ]
 }

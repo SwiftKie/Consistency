@@ -8,8 +8,10 @@
     "consistency:polished_andesite_brick_wall",
 
     "consistency:polished_stone_wall",
+    "consistency:cracked_stone_brick_wall",
     "consistency:polished_sandstone_wall",
     "consistency:polished_sandstone_brick_wall",
+    "consistency:deepslate_wall",
     "consistency:polished_granite_wall",
     "consistency:polished_diorite_wall",
     "consistency:polished_andesite_wall",

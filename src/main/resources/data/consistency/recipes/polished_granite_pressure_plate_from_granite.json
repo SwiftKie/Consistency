@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient":
+  {
+    "item": "minecraft:granite"
+  },
+  "result": "consistency:polished_granite_pressure_plate",
+  "count": 1
+}
