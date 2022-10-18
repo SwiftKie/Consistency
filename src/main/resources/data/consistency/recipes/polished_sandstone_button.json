@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "consistency:polished_sandstone"
+    }
+  ],
+  "result": {
+    "item": "consistency:polished_sandstone_button"
+  }
+}

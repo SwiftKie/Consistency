@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient":
+  {
+    "item": "minecraft:sandstone"
+  },
+  "result": "consistency:sandstone_button",
+  "count": 1
+}

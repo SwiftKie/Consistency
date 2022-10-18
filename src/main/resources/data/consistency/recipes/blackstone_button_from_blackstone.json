@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient":
+  {
+    "item": "minecraft:blackstone"
+  },
+  "result": "consistency:blackstone_button",
+  "count": 1
+}
